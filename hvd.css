@@ -1,0 +1,19 @@
+@media only screen and (max-width:480px) {
+    .box{
+       width: 20%;
+       height: 100px;
+       margin-left: 1000px;
+   }
+}
+@media only screen and (max-width:450px) {
+   .inner_header{
+      width: 20%;
+      height: 100px;
+     margin-left: 300px;
+  }
+}
+@media only screen and (max-width:475px) {
+   .wavy{
+       display: none;
+  }
+}
