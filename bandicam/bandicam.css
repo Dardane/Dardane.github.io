@@ -153,10 +153,13 @@
 
 #aaa {
   margin: 20px 0 0 950px;
+  position: absolute;
+  
 }
 #dor{
   width: 250px;
   height: 80px;
   margin-left: 590px;
   margin-top: 20px;
+
 }
