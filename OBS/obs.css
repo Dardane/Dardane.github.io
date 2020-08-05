@@ -172,3 +172,7 @@
 }
 
 #img:hover{box-shadow:10px 10px 5px yellow; transition: 1s };
+
+#asx{
+    margin: 700px 0 0 300px;
+}
